@@ -133,5 +133,5 @@ function run() {
 		console.log(item.getSize());
 	}
 }
-undefined
+
 run();
